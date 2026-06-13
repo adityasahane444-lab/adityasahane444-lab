@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0EA5E9&height=230&section=header&text=Aditya%20Sahane&fontSize=75&fontColor=E2E8F0&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=250&section=header&text=ADITYA%20SAHANE&fontSize=75&fontColor=F8FAFC&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student;Building+Intelligent+Systems;Python+%7C+C%2B%2B+%7C+Java+%7C+SQL;Future+AI+Engineer"/>
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+Explorer;Software+Developer+in+Progress;Turning+Data+into+Intelligence"/>
+
+<br><br>
+
 
 <img src="https://img.shields.io/badge/AI%20Engineer%20in%20Progress-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
 
 <img src="https://img.shields.io/badge/Data%20%7C%20Code%20%7C%20Intelligence-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"/>
 
-</div>
 
 <br><br>
-<div align="center">
+
 
 <a href="https://www.linkedin.com/in/aditya-sahane-27829a398">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
@@ -26,6 +27,7 @@
 <a href="https://leetcode.com/adityasahane444/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
 
 </div>
 
@@ -130,6 +132,7 @@ Development:
 
 Vision:
   - Transform data into intelligent solutions
+```
 
 # 🚀 Project Showcase
 
@@ -148,32 +151,22 @@ I focus on creating projects that combine:
 - 📊 Data-driven solutions
 
 
-## 🧩 Project Categories
+## 🧩 Project Areas
 
 
-```yaml
-AI Projects:
-  - Machine Learning applications
-  - Intelligent systems
-  - Automation solutions
+| Area | Focus |
+|---|---|
+| 🤖 AI Applications | Intelligent systems & ML solutions |
+| 📊 Data Projects | Analysis, visualization & insights |
+| 💻 Software Projects | Practical applications & tools |
 
-Software Projects:
-  - Full-stack applications
-  - Backend systems
-  - Problem solving tools
 
-Data Projects:
-  - Data analysis
-  - Visualization
-  - Insights generation
+> Projects will be showcased as they move from idea → implementation → deployment 🚀
 
 
 ---
 
-## 🏆 Achievements
-
-```md
-# 🏆 Achievements
+# 🏆 Achievements & Growth
 
 
 <div align="center">
@@ -183,49 +176,96 @@ Data Projects:
 </div>
 
 
-My learning journey includes:
+My journey includes:
 
 
 | Area | Experience |
 |---|---|
 | 🎯 Prompt Engineering | Participated in AI-based technical competition |
 | 📱 App Development | Explored Android development concepts |
-| 🧮 Technical Projects | Team collaboration & innovation experience |
+| 🧩 Technical Projects | Team collaboration & innovation experience |
 | 🧠 Problem Solving | DSA & coding practice journey |
 
 
-### 📚 Certifications
 
-- NPTEL Certification
+## 📜 Certifications & Learning
 
----
-
-# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityasahane444-lab&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasahane444-lab&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Continuous-Learning-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
 </div>
 
 
+| Certification / Activity | Organization | Focus |
+|---|---|---|
+| 🐍 C Programming Training | Spoken Tutorial, IIT Bombay | Programming Fundamentals |
+| 🤖 PromptVerse | MPulse Technical Fest | Prompt Engineering & Generative AI |
+| 📱 Android Arena Workshop | App Club | Android Development Concepts |
+| 🧮 Mathematics Project Exhibition | PES Modern College of Engineering | Project Development & Team Collaboration |
+
+
+> Building skills through technical events, certifications and hands-on learning 🚀
+
+
+# 📊 Coding Analytics
+
+
 <div align="center">
+
+<img src="https://img.shields.io/badge/GitHub-Contributions-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-F7B93E?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🐙 GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=adityasahane444-lab&show_icons=true&theme=tokyonight&hide_border=true&card_width=450"/>
+
+</td>
+
+
+<td width="50%" align="center">
+
+### 🧩 LeetCode
+
+<img src="https://leetcard.jacoblin.cool/adityasahane444?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+
+</td>
+
+</tr>
+</table>
+
+
+<br>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasahane444-lab&theme=tokyonight&hide_border=true"/>
 
+
 </div>
 
 
-## 🐍 Contribution Snake
+---
 
-<img src="https://raw.githubusercontent.com/adityasahane444-lab/adityasahane444-lab/output/github-contribution-grid-snake.svg"/>
+# 🐍 Contribution Activity
 
-# 🧩 LeetCode Analytics
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/adityasahane444?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+<img src="https://raw.githubusercontent.com/adityasahane444-lab/adityasahane444-lab/output/github-contribution-grid-snake.svg"/>
 
 </div>
