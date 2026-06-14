@@ -50,7 +50,7 @@ I am interested in creating technology that combines:
 Currently improving my programming, problem solving,
 and development skills.
 
-🎯 Goal: Become an AI Engineer building practical intelligent systems.
+🎯 Goal : Become an AI Engineer building practical intelligent systems.
 
 
 ---
