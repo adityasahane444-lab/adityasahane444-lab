@@ -2,19 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=250&section=header&text=ADITYA%20SAHANE&fontSize=75&fontColor=F8FAFC&fontAlignY=40&animation=fadeIn"/>
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+Explorer;Software+Developer+in+Progress;Turning+Data+into+Intelligence"/>
 
-<br><br>
-
+<br>
 
 <img src="https://img.shields.io/badge/AI%20Engineer%20in%20Progress-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
-
 <img src="https://img.shields.io/badge/Data%20%7C%20Code%20%7C%20Intelligence-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"/>
 
-
 <br><br>
-
 
 <a href="https://www.linkedin.com/in/aditya-sahane-27829a398">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
@@ -28,141 +23,103 @@
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-
 </div>
-
-
-# 👋 About Me
-
-Hi, I'm **Aditya Sahane**.
-
-🎓 B.Tech student specializing in  
-**Artificial Intelligence & Data Science**
-
-I am interested in creating technology that combines:
-
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🧠 Machine Learning
-- 💻 Software Engineering
-
-
-Currently improving my programming, problem solving,
-and development skills.
-
-🎯 Goal : Become an AI Engineer building practical intelligent systems.
-
 
 ---
 
-# 🛠️ Tech Stack
+## 👋 About Me
 
+Hi, I'm **Aditya Sahane**, a B.Tech student specializing in **Artificial Intelligence & Data Science**.
 
-## 👨‍💻 Programming Languages
+I am passionate about building intelligent systems that combine:
+- 🤖 Artificial Intelligence  
+- 📊 Data Science  
+- 🧠 Machine Learning  
+- 💻 Software Development  
+
+🎯 Goal: Become an AI Engineer building impactful real-world solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
-
 | Language | Focus |
-|---|---|
-| 🐍 Python | AI, Data Science & Development |
-| ⚡ C++ | DSA & Problem Solving |
-| ☕ Java | Currently Learning |
-| 🗄️ SQL | Database Management |
+|----------|------|
+| Python | AI, ML, Data Science |
+| C++ | DSA & Problem Solving |
+| Java | Learning Backend Development |
+| SQL | Database Management |
 
+---
 
-## ⚙️ Tools & Platforms
+## 🧠 AI & Data Science Focus
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning%20%26%20Building-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-Exploring-238636?style=for-the-badge"/>
 
-<br><br>
+</div>
 
-<a href="https://leetcode.com/adityasahane444/">
+```yaml
+Current Focus:
+  - Clean coding & problem solving
+  - Data structures & algorithms
+  - Machine learning fundamentals
+  - Data analysis
 
-<img src="https://img.shields.io/badge/LeetCode-View%20Profile-F7B93E?style=for-the-badge&logo=leetcode&logoColor=black"/>
+AI Exploration:
+  - Machine Learning models
+  - Data visualization
+  - Generative AI concepts
+  - Intelligent applications
 
+Vision:
+  - Turn data into impactful solutions
+```
+---
+
+## 🌟 Featured Project
+
+<div align="center">
+
+## 🎓 CGPA Predictor AI  
+### Machine Learning powered academic performance analyzer
+
+<a href="https://cgpa-predictor-ai.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀 Live%20Demo-Open%20App-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/adityasahane444-lab/CGPA-Predictor-AI">
+<img src="https://img.shields.io/badge/💻 GitHub-Source%20Code-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
+### ✨ Highlights
+- 📊 CGPA Prediction Model  
+- 🎯 Target Score Planner  
+- 🎮 Simulation Tool  
+- 📄 Auto Report Generation  
+- 📈 Performance Analytics  
 
 ---
 
-# 🧠 AI & Data Science Focus
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning%20%26%20Building-58A6FF?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Science-Exploring-238636?style=for-the-badge&logo=python&logoColor=white"/>
-
-</div>
-
-
-```yaml
-Current Focus:
-  - Writing clean and efficient code
-  - Strengthening DSA & problem solving
-  - Understanding ML algorithms
-  - Working with data and databases
-
-AI Exploration:
-  - Machine Learning Models
-  - Data Analysis
-  - Generative AI
-  - Intelligent Applications
-
-Development:
-  - Building practical software projects
-  - Learning backend systems
-  - Improving engineering skills
-
-Vision:
-  - Transform data into intelligent solutions
-```
-
-# 🚀 Project Showcase
-
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Building-Real%20World%20Solutions-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-
-</div>
-
-
-I focus on creating projects that combine:
-
-- 🤖 Artificial Intelligence
-- 💻 Software Development
-- 📊 Data-driven solutions
-
-
-## 🧩 Project Areas
-
-
-| Area | Focus |
-|---|---|
-| 🤖 AI Applications | Intelligent systems & ML solutions |
-| 📊 Data Projects | Analysis, visualization & insights |
-| 💻 Software Projects | Practical applications & tools |
-
-
-> Projects will be showcased as they move from idea → implementation → deployment 🚀
-
+## 📌 Focus Areas
+- 🤖 Artificial Intelligence / Machine Learning  
+- 📊 Data Science  
+- 💻 Software Development  
 
 ---
 
@@ -186,7 +143,7 @@ My journey includes:
 | 🧩 Technical Projects | Team collaboration & innovation experience |
 | 🧠 Problem Solving | DSA & coding practice journey |
 
-
+---
 
 ## 📜 Certifications & Learning
 
@@ -207,6 +164,8 @@ My journey includes:
 
 
 > Building skills through technical events, certifications and hands-on learning 🚀
+
+---
 
 
 # 📊 Coding Analytics
@@ -230,6 +189,7 @@ My journey includes:
 <tr>
 
 <td width="50%" align="center">
+---
 
 ### 🐙 GitHub
 
