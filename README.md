@@ -11,7 +11,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/aditya-sahane-27829a398">
+<a href="https://www.linkedin.com/in/aditya-sahane-ai/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
